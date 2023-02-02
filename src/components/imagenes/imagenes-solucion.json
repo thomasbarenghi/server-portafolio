@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_imagenes_imagenes_solucions",
+  "info": {
+    "displayName": "imagenesSolucion"
+  },
+  "options": {},
+  "attributes": {
+    "link1": {
+      "type": "string"
+    },
+    "link2": {
+      "type": "string"
+    },
+    "link3": {
+      "type": "string"
+    }
+  }
+}

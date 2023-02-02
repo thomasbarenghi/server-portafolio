@@ -34,6 +34,48 @@
     },
     "image_link": {
       "type": "string"
+    },
+    "colorMarca": {
+      "type": "string"
+    },
+    "sobreProblema": {
+      "type": "text"
+    },
+    "sobreResolucion": {
+      "type": "text"
+    },
+    "imgLink_problema": {
+      "type": "string"
+    },
+    "imagenesSolucion": {
+      "displayName": "imagenesSolucion",
+      "type": "component",
+      "repeatable": false,
+      "component": "imagenes.imagenes-solucion"
+    },
+    "descripcionCorta": {
+      "type": "text"
+    },
+    "fraseTop": {
+      "type": "string"
+    },
+    "colorMarcaLight": {
+      "type": "string"
+    },
+    "sobreEjecucion": {
+      "type": "string"
+    },
+    "resenaParrafo": {
+      "type": "text"
+    },
+    "resenaNombre": {
+      "type": "string"
+    },
+    "resenaPuesto": {
+      "type": "string"
+    },
+    "resenaImage_link": {
+      "type": "string"
     }
   }
 }
